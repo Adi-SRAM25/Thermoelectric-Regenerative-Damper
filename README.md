@@ -1,7 +1,7 @@
 # JLR_Inter_IIT_PS
 
 This simulink model of Thermoelectric Regenerative Damper was presented during Jaguar Landrover's Energy Harvesting System Challenge at Inter IIT Tech Meet 9.0.
-It lead us won silver medal.
+We were awarded silver medal out of all participating institutes.
 
 ﻿Instructions Regarding The Models:-  
 
