@@ -16,5 +16,5 @@ We were awarded silver medal out of all participating institutes.
 
 2. Thermoelectric Regen Damper  ( Complete Model ) 
    1. Open “Thermoelectric_Regen_Damper.slx”
-   2. Same as the steps a-c that are stated above. 
+   2. Same as the steps i-iv that are stated above. 
    3. After pressing the run button in simulink the model outputs the actual power harnessed and the voltage generated through the Seebeck modules.
